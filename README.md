@@ -4,6 +4,8 @@ Fully vibe coded with claude, because I've never coded in js
 
 Feel free to suggest anything and fix anything, if you know how
 
+Claude dialog: https://claude.ai/share/eef43905-bfbf-4ebf-bb88-4d3c1e95e789
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
